@@ -74,12 +74,16 @@ plt.title("Customer Segments")
 
 ```
 ## Output:
+
 ![image](https://github.com/user-attachments/assets/4b53bc38-b81b-404b-83be-a25d053d64cb)
 
 ### y_pred
+
+
 ![Screenshot 2024-10-18 141105](https://github.com/user-attachments/assets/ffe4373d-8518-4e60-9145-ba3502eebf21)
 
 ### Cluster
+
 ![Screenshot 2024-10-18 141411](https://github.com/user-attachments/assets/edcdf12e-c6e0-40c3-9232-d8c8bdb39f3b)
 
 ## Result:
